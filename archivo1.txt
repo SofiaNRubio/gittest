@@ -1,2 +1,2 @@
 Este es el archivo 1 con la linea 1 agregada
-Este es el archivo 1 con la linea 2 modificada
+Este es el archivo 1 con la linea 2 
